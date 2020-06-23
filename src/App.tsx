@@ -5,12 +5,12 @@ import './App.css';
 import TelegrammCloud from "./HomeWork1/TelegrammCloud";
 
 function App() {
-  return (
-    <div className="App">
-        HOMEWORK
- <TelegrammCloud/>
-    </div>
-  );
+    return (
+        <div className="App">
+            HOMEWORK
+            <TelegrammCloud/>
+        </div>
+    );
 }
 
 export default App;

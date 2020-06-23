@@ -1,13 +1,17 @@
 import React from 'react';
-import logo from '../logo.svg';
 import '../App.css';
 import s from './TelegrammCloud.module.css'
-function Name() {
-  return (
-    <div className={s.nameMessage}>
-Настя
-    </div>
-  );
+
+type PropsType = {
+    title: string
+}
+
+function Name(props: PropsType) {
+    return (
+        <div className={s.nameMessage}>
+            {props.title}
+        </div>
+    );
 }
 
 export default Name;
