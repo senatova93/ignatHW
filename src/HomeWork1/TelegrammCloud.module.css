@@ -1,11 +1,9 @@
 
 .message {
-
-    weight: 200px;
     height: 100px;
-    padding: 200px;
-    background: #81c7ff;
-    color: #ededed;
+    padding: 190px;
+    background-image: url("https://rusability.ru/wp-content/uploads/2019/02/v-telegram-poyavilis-novye-vozmozhnosti-dlya-raboty-s-fonami-chatov.jpg");
+
 }
 
 .cloud {
@@ -42,11 +40,12 @@
 
 .nameMessage {
 
-    color: #ff6332;
+    color: #329fff;
     font-weight: 700;
     font-family: Arial, Helvetica, sans-serif;
     margin-bottom: 10px;
     margin-left: -300px;
+    position: relative;
 }
 
 .mainMessage {
@@ -59,7 +58,7 @@
 }
 
 .time {
-    color: #ff6332;
+    color: rgba(82, 77, 76, 0.7);
     font-family: Arial, Helvetica, sans-serif;
     text-align: right;
     font-weight: bold;

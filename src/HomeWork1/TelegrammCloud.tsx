@@ -10,9 +10,9 @@ function TelegrammCloud() {
         <div className={s.message}>
             <div className={s.cloud}>
 
-                <Name title="Nastya"/>
-                <Text title="Я люблю React"/>
-                <Time title="22.00"/>
+                <Name name="Nastya"/>
+                <Text text="Я люблю React"/>
+                <Time time="22.00"/>
             </div>
         </div>
     );
