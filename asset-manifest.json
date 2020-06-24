@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ignatHW/static/css/main.30665bf2.chunk.css",
+    "main.js": "/ignatHW/static/js/main.0f3e7c4b.chunk.js",
+    "main.js.map": "/ignatHW/static/js/main.0f3e7c4b.chunk.js.map",
+    "runtime-main.js": "/ignatHW/static/js/runtime-main.599e0fb3.js",
+    "runtime-main.js.map": "/ignatHW/static/js/runtime-main.599e0fb3.js.map",
+    "static/js/2.86b6d9b8.chunk.js": "/ignatHW/static/js/2.86b6d9b8.chunk.js",
+    "static/js/2.86b6d9b8.chunk.js.map": "/ignatHW/static/js/2.86b6d9b8.chunk.js.map",
+    "index.html": "/ignatHW/index.html",
+    "precache-manifest.a0dc24a2e7ec5b7cab02ed47e33544f7.js": "/ignatHW/precache-manifest.a0dc24a2e7ec5b7cab02ed47e33544f7.js",
+    "service-worker.js": "/ignatHW/service-worker.js",
+    "static/css/main.30665bf2.chunk.css.map": "/ignatHW/static/css/main.30665bf2.chunk.css.map",
+    "static/js/2.86b6d9b8.chunk.js.LICENSE.txt": "/ignatHW/static/js/2.86b6d9b8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.599e0fb3.js",
+    "static/js/2.86b6d9b8.chunk.js",
+    "static/css/main.30665bf2.chunk.css",
+    "static/js/main.0f3e7c4b.chunk.js"
+  ]
+}
